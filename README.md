@@ -22,3 +22,4 @@ absolute : 元素框从文档流完全删除，并相对于其包含块定。包
 fixed : 类似 absolute，不过其包含块是视窗本身
 ```
 >5、Flex 布局
+[关于flex布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
